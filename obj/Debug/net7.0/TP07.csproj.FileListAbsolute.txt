@@ -1,0 +1,78 @@
+C:\Users\47496739\Downloads\TP07_2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\47496739\Downloads\TP07_2\bin\Debug\net7.0\appsettings.json
+C:\Users\47496739\Downloads\TP07_2\bin\Debug\net7.0\TP07.staticwebassets.runtime.json
+C:\Users\47496739\Downloads\TP07_2\bin\Debug\net7.0\TP07.exe
+C:\Users\47496739\Downloads\TP07_2\bin\Debug\net7.0\TP07.deps.json
+C:\Users\47496739\Downloads\TP07_2\bin\Debug\net7.0\TP07.runtimeconfig.json
+C:\Users\47496739\Downloads\TP07_2\bin\Debug\net7.0\TP07.dll
+C:\Users\47496739\Downloads\TP07_2\bin\Debug\net7.0\TP07.pdb
+C:\Users\47496739\Downloads\TP07_2\bin\Debug\net7.0\Dapper.dll
+C:\Users\47496739\Downloads\TP07_2\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\47496739\Downloads\TP07_2\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\47496739\Downloads\TP07_2\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\47496739\Downloads\TP07_2\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\47496739\Downloads\TP07_2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\47496739\Downloads\TP07_2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\47496739\Downloads\TP07_2\obj\Debug\net7.0\TP07.csproj.AssemblyReference.cache
+C:\Users\47496739\Downloads\TP07_2\obj\Debug\net7.0\TP07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47496739\Downloads\TP07_2\obj\Debug\net7.0\TP07.AssemblyInfoInputs.cache
+C:\Users\47496739\Downloads\TP07_2\obj\Debug\net7.0\TP07.AssemblyInfo.cs
+C:\Users\47496739\Downloads\TP07_2\obj\Debug\net7.0\TP07.csproj.CoreCompileInputs.cache
+C:\Users\47496739\Downloads\TP07_2\obj\Debug\net7.0\TP07.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\47496739\Downloads\TP07_2\obj\Debug\net7.0\TP07.RazorAssemblyInfo.cache
+C:\Users\47496739\Downloads\TP07_2\obj\Debug\net7.0\TP07.RazorAssemblyInfo.cs
+C:\Users\47496739\Downloads\TP07_2\obj\Debug\net7.0\staticwebassets\msbuild.TP07.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\47496739\Downloads\TP07_2\obj\Debug\net7.0\staticwebassets\msbuild.build.TP07.props
+C:\Users\47496739\Downloads\TP07_2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TP07.props
+C:\Users\47496739\Downloads\TP07_2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TP07.props
+C:\Users\47496739\Downloads\TP07_2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\47496739\Downloads\TP07_2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\47496739\Downloads\TP07_2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\47496739\Downloads\TP07_2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\47496739\Downloads\TP07_2\obj\Debug\net7.0\scopedcss\bundle\TP07.styles.css
+C:\Users\47496739\Downloads\TP07_2\obj\Debug\net7.0\scopedcss\projectbundle\TP07.bundle.scp.css
+C:\Users\47496739\Downloads\TP07_2\obj\Debug\net7.0\TP07.csproj.CopyComplete
+C:\Users\47496739\Downloads\TP07_2\obj\Debug\net7.0\TP07.dll
+C:\Users\47496739\Downloads\TP07_2\obj\Debug\net7.0\refint\TP07.dll
+C:\Users\47496739\Downloads\TP07_2\obj\Debug\net7.0\TP07.pdb
+C:\Users\47496739\Downloads\TP07_2\obj\Debug\net7.0\TP07.genruntimeconfig.cache
+C:\Users\47496739\Downloads\TP07_2\obj\Debug\net7.0\ref\TP07.dll
+E:\SESION DESA11\Descargas\TP07_2\obj\Debug\net7.0\TP07.csproj.AssemblyReference.cache
+E:\SESION DESA11\Descargas\TP07_2\obj\Debug\net7.0\TP07.GeneratedMSBuildEditorConfig.editorconfig
+E:\SESION DESA11\Descargas\TP07_2\obj\Debug\net7.0\TP07.AssemblyInfoInputs.cache
+E:\SESION DESA11\Descargas\TP07_2\obj\Debug\net7.0\TP07.AssemblyInfo.cs
+E:\SESION DESA11\Descargas\TP07_2\obj\Debug\net7.0\TP07.csproj.CoreCompileInputs.cache
+E:\SESION DESA11\Descargas\TP07_2\obj\Debug\net7.0\TP07.MvcApplicationPartsAssemblyInfo.cache
+E:\SESION DESA11\Descargas\TP07_2\obj\Debug\net7.0\TP07.RazorAssemblyInfo.cache
+E:\SESION DESA11\Descargas\TP07_2\obj\Debug\net7.0\TP07.RazorAssemblyInfo.cs
+E:\SESION DESA11\Descargas\TP07_2\obj\Debug\net7.0\TP07.dll
+E:\SESION DESA11\Descargas\TP07_2\obj\Debug\net7.0\refint\TP07.dll
+E:\SESION DESA11\Descargas\TP07_2\obj\Debug\net7.0\TP07.pdb
+E:\SESION DESA11\Descargas\TP07_2\bin\Debug\net7.0\appsettings.Development.json
+E:\SESION DESA11\Descargas\TP07_2\bin\Debug\net7.0\appsettings.json
+E:\SESION DESA11\Descargas\TP07_2\bin\Debug\net7.0\TP07.staticwebassets.runtime.json
+E:\SESION DESA11\Descargas\TP07_2\bin\Debug\net7.0\TP07.exe
+E:\SESION DESA11\Descargas\TP07_2\bin\Debug\net7.0\TP07.deps.json
+E:\SESION DESA11\Descargas\TP07_2\bin\Debug\net7.0\TP07.runtimeconfig.json
+E:\SESION DESA11\Descargas\TP07_2\bin\Debug\net7.0\TP07.dll
+E:\SESION DESA11\Descargas\TP07_2\bin\Debug\net7.0\TP07.pdb
+E:\SESION DESA11\Descargas\TP07_2\bin\Debug\net7.0\Dapper.dll
+E:\SESION DESA11\Descargas\TP07_2\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\SESION DESA11\Descargas\TP07_2\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\SESION DESA11\Descargas\TP07_2\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\SESION DESA11\Descargas\TP07_2\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\SESION DESA11\Descargas\TP07_2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\SESION DESA11\Descargas\TP07_2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\SESION DESA11\Descargas\TP07_2\obj\Debug\net7.0\staticwebassets\msbuild.TP07.Microsoft.AspNetCore.StaticWebAssets.props
+E:\SESION DESA11\Descargas\TP07_2\obj\Debug\net7.0\staticwebassets\msbuild.build.TP07.props
+E:\SESION DESA11\Descargas\TP07_2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TP07.props
+E:\SESION DESA11\Descargas\TP07_2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TP07.props
+E:\SESION DESA11\Descargas\TP07_2\obj\Debug\net7.0\staticwebassets.pack.json
+E:\SESION DESA11\Descargas\TP07_2\obj\Debug\net7.0\staticwebassets.build.json
+E:\SESION DESA11\Descargas\TP07_2\obj\Debug\net7.0\staticwebassets.development.json
+E:\SESION DESA11\Descargas\TP07_2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\SESION DESA11\Descargas\TP07_2\obj\Debug\net7.0\scopedcss\bundle\TP07.styles.css
+E:\SESION DESA11\Descargas\TP07_2\obj\Debug\net7.0\scopedcss\projectbundle\TP07.bundle.scp.css
+E:\SESION DESA11\Descargas\TP07_2\obj\Debug\net7.0\TP07.csproj.CopyComplete
+E:\SESION DESA11\Descargas\TP07_2\obj\Debug\net7.0\TP07.genruntimeconfig.cache
+E:\SESION DESA11\Descargas\TP07_2\obj\Debug\net7.0\ref\TP07.dll

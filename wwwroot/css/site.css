@@ -1,0 +1,159 @@
+/*style*/
+.texto-box-jugar{
+  text-decoration:none;
+}
+.box-jugar {
+  background: grey;
+  border-radius: 29px;
+  width: 449px;
+  height: 79px;
+  position: absolute;
+  left: 36%;
+  top: 90%;
+  text-decoration: none;
+}
+.texto-box-jugar {
+  color: #ffffff;
+  text-align: left;
+  font: 400 28px "Inter", sans-serif;
+  position: absolute;
+  left: 48%;
+  top: 93%;
+  width: 100px;
+  height: 40px;
+}
+.Preguntados {
+  width: 929px;
+  height: 223px;
+  position: absolute;
+  left: 20%;
+  top: 15%;
+}
+.Preguntados-ort {
+  width: 579px;
+  height: 326px;
+  position: absolute;
+  left: 33%;
+  top: 40%;
+}
+/*cofiguracion*/
+.configuracion{
+  padding-left: 5%;
+}
+.Padding{
+  display: block;
+  font-size: 50px;
+  margin-bottom: 5%;
+  flex-direction: column;
+  clear:both;
+}
+/*final*/
+
+.Juego{
+  position: absolute;
+  width: 449px;
+  height: 79px;
+  left: 33%;
+  top: 75%;
+  background: #71CF25;
+  border-radius: 29px;
+  }
+  
+  /* @Username */
+  .username{
+  position: absolute;
+  width: 380px;
+  height: 50px;
+  left: 38%;
+  top: 30%;
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  color: #000000;
+  }
+  
+  
+  /* Puntaje Final:7 */
+  .puntajefinal{
+  position: absolute;
+  width: 565px;
+  height: 236px;
+  left: 30%;
+  top: 42%;
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 85px;
+  line-height: 103px;
+  text-align: center;
+  color: #000000;
+  }
+  
+  .volverajugar{
+  color: #ffffff;
+  text-align: center;
+  font-size: 22px;
+  font-weight: 400;
+  font-family: sans-serif;
+  position: absolute;
+  left: 33%;
+  top: 30%;
+  width: 150px;
+  height: 60px;
+  }
+  /*pregunta*/
+/*respuesta*/
+.puntajeactual{
+  width: 364px; 
+  height: 93px; 
+  text-align: center;
+  color: black;
+  font-size: 48px; 
+  font-family: sans-serif; 
+  font-weight: 400; 
+  word-wrap: break-word;
+  float: right;
+}
+.textopregunta{
+  clear: both;
+  text-align: center;
+  color: black;
+  font-family: sans-serif;
+  word-wrap: break-word;
+  font-weight: 400;
+}
+.numeroPregunta{
+  font-size: 40px;
+}
+.contenidoPregunta{
+  font-size: 28px;
+}
+.boxpregunta{
+  background: rgb(233, 21, 21);
+  border-radius: 29px;
+  width: 449px;
+  height: 79px;
+  position: absolute;
+  left: 35%;
+}
+.boxpreguntaVERDADERO{
+  background: rgb(26, 214, 19);
+  border-radius: 29px;
+  width: 449px;
+  height: 79px;
+  position: absolute;
+  left: 735px;
+}
+.textoboxpregunta{
+  color: #ffffff;
+  text-align: center;
+  font-size: 28px;
+  font-weight: 400;
+  font-family: sans-serif;
+  position: absolute;
+  left: 40%;
+  top: 30%;
+  width: 100px;
+  height: 40px;
+}

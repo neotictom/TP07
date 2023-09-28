@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\SESION DESA11\\Descargas\\TP07_2\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TP07.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TP07.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\SESION DESA11\\Descargas\\TP07_2\\wwwroot\\Imagenes\\Configuracion.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Configuracion.png"
+    },
+    {
+      "Id": "E:\\SESION DESA11\\Descargas\\TP07_2\\wwwroot\\Imagenes\\Correcto.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Correcto.png"
+    },
+    {
+      "Id": "E:\\SESION DESA11\\Descargas\\TP07_2\\wwwroot\\Imagenes\\Incorrecto.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Incorrecto.jpg"
+    },
+    {
+      "Id": "E:\\SESION DESA11\\Descargas\\TP07_2\\wwwroot\\Imagenes\\LogoORT.png",
+      "PackagePath": "staticwebassets\\Imagenes\\LogoORT.png"
+    },
+    {
+      "Id": "E:\\SESION DESA11\\Descargas\\TP07_2\\wwwroot\\Imagenes\\PREGUNTADOS.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PREGUNTADOS.png"
+    },
+    {
+      "Id": "E:\\SESION DESA11\\Descargas\\TP07_2\\wwwroot\\Imagenes\\Preguntados-ort.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Preguntados-ort.png"
+    },
+    {
+      "Id": "E:\\SESION DESA11\\Descargas\\TP07_2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\SESION DESA11\\Descargas\\TP07_2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\SESION DESA11\\Descargas\\TP07_2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.TP07.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.TP07.props",
+      "PackagePath": "build\\TP07.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.TP07.props",
+      "PackagePath": "buildMultiTargeting\\TP07.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.TP07.props",
+      "PackagePath": "buildTransitive\\TP07.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://getbootstrap.com/docs/5.3/assets/css/docs.css" rel="stylesheet">
+ <link href="wwwroot/css/site.css" rel="stylesheet">
+  
+    <title>Document</title>
+  </head>
+  <body>
+<div class="configuracion">
+<form action='@Url.Action("Comenzar", "Home")'>
+                      <!-- DIFICULTAD -->
+<div class="Padding">Dificultad:
+<div class="btn-group" role="group" aria-label="Basic radio toggle button group">
+  @{
+    int top1 = 1;
+   @foreach (var item in @ViewBag.Dificultades)
+   {
+   string top = ("btnradio" + top1.ToString());
+   <input type="radio" class="btn-check" name="dificultad" id="@top" autocomplete="off" checked value=@item.IdDificultad>
+   <label class="btn btn-outline-primary" for="@top">@item.Nombre</label> 
+   top1+=1;
+   }
+   string top3 = ("btnradio" + top1.ToString());
+   <input type="radio" class="btn-check" name="dificultad" id="@top3" autocomplete="off" checked value=-1>
+   <label class="btn btn-outline-primary" for="@top3">Todas</label> 
+  }
+  
+</div> 
+                      <!-- DIFICULTAD -->
+                      <!-- CATEGORIA -->
+<div class="Padding">Categoria:
+<div class="btn-group" role="group" aria-label="Basic radio toggle button group">
+  @{
+    int top2 = 10;
+  @foreach (var item in @ViewBag.Categorias)
+  {
+   string top = ("btnradio" + top2.ToString());
+   <input type="radio" class="btn-check" name="categoria" id="@top" autocomplete="off" checked value=@item.IdCategoria>
+   <label class="btn btn-outline-primary" for="@top">@item.Nombre</label> 
+   top2+=10;
+  }
+  string top4 = ("btnradio" + top2.ToString());
+  <input type="radio" class="btn-check" name="categoria" id="@top4" autocomplete="off" checked value=-1>
+  <label class="btn btn-outline-primary" for="@top4">Aleatorio</label> 
+  }
+  </div> 
+                      <!-- CATEGORIA -->
+                      <!-- USUARIO -->
+<div class="Padding">
+      <div class="col-md-4">
+        <label for="validationDefault01" class="form-label">Introduzca su nombre</label>
+        <input type="text" class="form-control" id="validationDefault01" name="username" required="true">
+      </div>
+      <div class="col-12">
+        <button class="btn btn-primary" type="submit">Confirmar nombre</button>
+      </div>
+  </div>
+                      <!-- USUARIO -->
+  </form>
+  </div>
+  </body>
+</html>
